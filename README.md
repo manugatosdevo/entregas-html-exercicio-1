@@ -9,8 +9,8 @@ Copie e cole no formato abaixo:
 
 ---
 
-**Nome:** Seu nome aqui  
-**GitHub:** https://github.com/seuusuario/html-exercicio-1
+**Nome:** Emanuelly 201
+**GitHub:** https://github.com/manugatosdevo/Primeiro-projeto
 
 ---
 
