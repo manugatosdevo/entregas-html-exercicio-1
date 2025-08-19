@@ -22,4 +22,8 @@ Copie e cole no formato abaixo:
 **Nome:** Gabriel Cruz
 **GitHub:** https://github.com/Gepeto221/AtividadeSS
 
+---
+
+**Nome:** Emanuelly
+**GitHub:** https://github.com/manugatosdevo/Primeiro-projeto/blob/master/index.html
 
