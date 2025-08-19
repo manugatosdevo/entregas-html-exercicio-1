@@ -9,5 +9,10 @@ Copie e cole no formato abaixo:
 
 ---
 
-**Nome:** Girley/Samuel  
+**Nome:** Girley
 **GitHub:** https://github.com/Girley2008?tab=repositories
+---
+
+**Nome:** Samuel
+**GitHub:** https://github.com/SamuelC-2008/Primeiro-projeto
+
