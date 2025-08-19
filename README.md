@@ -17,3 +17,9 @@ Copie e cole no formato abaixo:
 **Nome:** Samuel
 **GitHub:** https://github.com/SamuelC-2008/Primeiro-projeto
 
+---
+
+**Nome:** Gabriel Cruz
+**GitHub:** https://github.com/Gepeto221/AtividadeSS
+
+
